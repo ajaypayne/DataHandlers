@@ -1,6 +1,6 @@
 <?php
 /**
- * @author Blake Payne <blake.payne@eckoh.com>
+ * @author Blake Payne <ajaypayne@gmail.com>
  * @version 1.0.0
  */
 /**

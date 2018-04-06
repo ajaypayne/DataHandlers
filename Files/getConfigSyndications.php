@@ -1,8 +1,8 @@
 <?php
 /**
  * @copyright Copyright (c) 2017. Eckoh UK Ltd.
- * @author Blake Payne <blake.payne@eckoh.com>
- * @maintainer Blake Payne <blake.payne@eckoh.com>
+ * @author Blake Payne <ajaypayne@gmail.com>
+ * @maintainer Blake Payne <ajaypayne@gmail.com>
  */
 
 $xmlString = <<<EOD
