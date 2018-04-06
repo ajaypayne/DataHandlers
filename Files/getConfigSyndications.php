@@ -1,6 +1,5 @@
 <?php
 /**
- * @copyright Copyright (c) 2017. Eckoh UK Ltd.
  * @author Blake Payne <ajaypayne@gmail.com>
  * @maintainer Blake Payne <ajaypayne@gmail.com>
  */
